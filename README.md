@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuoc Loc
+- 👋 Hi, I’m Phuoc Loc.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently studying software engineering at FPT University.
 - 📫 How to reach me: phuocloc301203@gmail.com
